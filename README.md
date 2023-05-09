@@ -26,5 +26,6 @@ mdx = md
 BasedOnStyles = Vale, GoogleSemgrep
 Google.WordList = NO
 ```
+2. Pull this repository into a `styles` folder. This folder can be created in your home directory (~/styles). 
 2. Run `vale` by invoking it on an existing document: `vale semgrep-docs/docs/somedoc.md`
 3. (Optional) Run `vale` as a linter in your preferred environment.
