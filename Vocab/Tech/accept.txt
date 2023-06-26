@@ -3,6 +3,7 @@ Semgrep Registry
 Semgrep Code
 Semgrep Assistant
 Semgrep Cloud Platform
+Semgrep Supply Chain
 rulesets
 sales@semgrep.com
 [Ss]emgrep
