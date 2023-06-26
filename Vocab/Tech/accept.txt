@@ -1,5 +1,11 @@
-Semgrep
+semgrep-rules
+Semgrep Registry
+Semgrep Code
+Semgrep Assistant
+Semgrep Cloud Platform
 rulesets
+sales@semgrep.com
+[Ss]emgrep
 
 Okta
 Bitbucket
@@ -32,3 +38,20 @@ lockfiles
 lockfile
 Lockfile
 Lockfiles
+
+MR
+MRs
+
+PR
+PRs
+
+dataflow
+buildable
+TOCInline
+
+AST
+ASTs
+
+ESLint
+SLAs
+SLA
