@@ -15,7 +15,7 @@ This style repository is a work-in-progress.
 1. Use the following configuration in your vale.ini file:
 ```
 StylesPath = styles
-MinAlertLevel = suggestion
+MinAlertLevel = error
 Packages = Google
 Vocab = Tech
 
