@@ -4,6 +4,8 @@ Semgrep Code
 Semgrep Assistant
 Semgrep Cloud Platform
 Semgrep Pro
+Semgrep Pro Engine
+Semgrep Pro rules
 Semgrep Supply Chain
 
 rulesets
@@ -62,3 +64,10 @@ SLA
 
 reachable
 reachability
+
+npm
+Pipenv
+pipenv
+CommonJS
+
+Gradle
