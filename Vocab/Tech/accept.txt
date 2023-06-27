@@ -4,6 +4,8 @@ Semgrep Code
 Semgrep Assistant
 Semgrep Cloud Platform
 Semgrep Pro
+Semgrep Supply Chain
+
 rulesets
 sales@semgrep.com
 [Ss]emgrep
@@ -57,3 +59,6 @@ ASTs
 ESLint
 SLAs
 SLA
+
+reachable
+reachability
