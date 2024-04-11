@@ -24,7 +24,7 @@ This style repository is a work-in-progress.
     
     [*]
     BasedOnStyles = Vale, GoogleSemgrep
-    Google.WordList = NO
+    # Google.WordList = NO
     ```
 2. Pull this repository into a `styles` folder. This folder can be created in your home directory (~/styles). 
 2. Run `vale` by invoking it on an existing document: `vale semgrep-docs/docs/somedoc.md`
