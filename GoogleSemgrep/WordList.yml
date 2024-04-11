@@ -38,7 +38,6 @@ swap:
   chapter: documents|pages|sections
   check box: checkbox
   check: select
-  CLI: command-line tool
   click on: click|click in
   Container Engine: Kubernetes Engine
   content type: media type
@@ -77,7 +76,13 @@ swap:
   url:  URL
   vs\.: versus
   World Wide Web: web
+  # Semgrep-specific
   NPM: npm
   yaml: YAML
   BitBucket: Bitbucket
   Github: GitHub
+  lock file: lockfile
+  lock files: lockfiles
+  json: JSON
+  snyk: Snyk
+  git: Git

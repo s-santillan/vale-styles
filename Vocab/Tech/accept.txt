@@ -13,7 +13,6 @@ sales@semgrep.com
 [Ss]emgrep
 
 Okta
-Bitbucket
 Jira
 
 SCMs
@@ -27,8 +26,8 @@ frontmatter
 autofix
 Autofix
 
-triaging
-triage
+[Tt]riaging
+[Tt]riage
 
 onboarding
 onboard
@@ -71,3 +70,27 @@ pipenv
 CommonJS
 
 Gradle
+
+JSON
+
+reauthenticate
+
+Azure Repos
+Repos
+
+tk
+
+[Dd]eduplicate
+[Dd]eduplicated
+[Dd]eduplicating
+
+ChatGPT
+GPT's
+LLM
+LLMs
+Snyk
+
+declaratively
+
+Git
+validator
