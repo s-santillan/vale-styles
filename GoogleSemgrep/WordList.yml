@@ -86,3 +86,4 @@ swap:
   json: JSON
   snyk: Snyk
   git: Git
+  interprocedural: intrafile
