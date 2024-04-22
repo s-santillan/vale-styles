@@ -8,7 +8,8 @@ Semgrep Pro Engine
 Semgrep Pro rules
 Semgrep Supply Chain
 
-rulesets
+[Rr]ulesets
+[Rr]uleset
 sales@semgrep.com
 [Ss]emgrep
 
@@ -36,8 +37,10 @@ workspace
 Workspace
 
 reconcilliation
-metavariables
-metavariable
+[Mm]etavariables
+[Mm]etavariable
+
+untrusted
 
 lockfiles
 lockfile
@@ -99,3 +102,29 @@ intrafile
 [Oo]rgs
 
 Entra
+
+OSS's
+APIs
+
+[Uu]nsanitized
+[Uu]nsanitize
+
+Lodash
+[Ee]xploitability
+Dependabot
+Dependabot's
+SBOM
+SBOMs
+Cloudinary
+Cyber
+
+DOMPurify
+
+Buildkite
+Buildkite's
+Codeship
+Codefresh
+Buildbot
+Bitrise
+
+uncommenting
