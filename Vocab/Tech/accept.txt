@@ -53,7 +53,7 @@ MRs
 PR
 PRs
 
-dataflow
+[Dd]ataflow
 buildable
 TOCInline
 
@@ -96,9 +96,9 @@ Snyk
 declaratively
 
 Git
-validator
+[Vv]alidator
 
-intrafile
+[Ii]ntrafile
 [Oo]rgs
 
 Entra
@@ -128,3 +128,50 @@ Buildbot
 Bitrise
 
 uncommenting
+
+[Ss]ubteams
+[Ss]ubteam
+unassign
+
+Sebas
+[Pp]arsiya
+[Pp]arsia
+
+Postgres
+
+multi-line
+[Dd]estructuring
+OCaml
+[Aa]liengrep
+[Ss]pacegrep
+[Dd]eduplication
+Dockerfile
+misconfiguration
+misconfigurations
+
+bugfix
+bugfixes
+
+[Tt]ooltip
+subcommand
+monorepo
+pfff
+
+Araujo
+
+namespace
+unparsable
+[Ss]ubfolders
+[Ss]ubfolder
+
+[Tt]imeframe
+cron
+Sendgrid
+Asana
+org's
+
+subpages
+
+automation
+automations
+onwards
