@@ -1,0 +1,9 @@
+extends: substitution
+message: "Use the contraction sparingly. Prefer spelling out where possible."
+link: 'https://developers.google.com/style/contractions'
+level: warning 
+ignorecase: true
+action:
+  name: replace
+swap:
+  config: configuration

@@ -1,7 +1,8 @@
+# For error-level substitutions (block)
 extends: substitution
 message: "Use '%s' instead of '%s'."
 link: 'https://developers.google.com/style/word-list'
-level: warning
+level: error
 ignorecase: false
 action:
   name: replace
@@ -23,19 +24,16 @@ swap:
   above: preceding
   account name: username
   action bar: app bar
-  admin: administrator
   Ajax: AJAX
   Android device: Android-powered device
   android: Android
   API explorer: APIs Explorer
-  application: app
   approx\.: approximately
   authN: authentication
   authZ: authorization
   autoupdate: automatically update
   cellular data: mobile data
   cellular network: mobile network
-  chapter: documents|pages|sections
   check box: checkbox
   check: select
   click on: click|click in
