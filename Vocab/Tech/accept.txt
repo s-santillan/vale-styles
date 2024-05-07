@@ -184,3 +184,9 @@ Twilio
 OAuth
 
 allowlist
+rescan
+
+[Pp]arallelization
+[Ss]everities
+backdoors
+backdoor

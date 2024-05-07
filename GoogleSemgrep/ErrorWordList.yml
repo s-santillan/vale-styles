@@ -10,7 +10,6 @@ swap:
   '(?:API Console|dev|developer) key': API key
   '(?:cell ?phone|smart ?phone)': phone|mobile phone
   '(?:dev|developer|APIs) console': API console
-  '(?:e-mail|Email|E-mail)': email
   '(?:file ?path|path ?name)': path
   '(?:kill|terminate|abort)': stop|exit|cancel|end
   '(?:OAuth ?2|Oauth)': OAuth 2.0
@@ -64,7 +63,6 @@ swap:
   regex: regular expression
   SHA1: SHA-1|HAS-SHA1
   sign into: sign in to
-  sign-?on: single sign-on
   static IP address: static external IP address
   stylesheet: style sheet
   synch: sync
@@ -84,6 +82,5 @@ swap:
   json: JSON
   snyk: Snyk
   git: Git
-  interprocedural: intrafile
   rule set: ruleset
-  diff-aware scans: diff scans
+  diff scans: diff-aware scans
