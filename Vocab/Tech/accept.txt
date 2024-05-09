@@ -190,3 +190,6 @@ rescan
 [Ss]everities
 backdoors
 backdoor
+
+[Ee]nablement
+Lua
