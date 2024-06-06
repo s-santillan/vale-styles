@@ -154,7 +154,7 @@ bugfixes
 
 [Tt]ooltip
 subcommand
-monorepo
+[Mm]onorepo
 pfff
 
 Araujo
@@ -184,7 +184,7 @@ Twilio
 OAuth
 
 allowlist
-rescan
+[Rr]escan
 
 [Pp]arallelization
 [Ss]everities
@@ -193,3 +193,8 @@ backdoor
 
 [Ee]nablement
 Lua
+
+[Pp]erformant
+[Dd]eserialization
+Laravel
+Servlets
