@@ -198,3 +198,51 @@ Lua
 [Dd]eserialization
 Laravel
 Servlets
+
+[Ss]ubkeys
+hardcoding
+autodetect
+autodetects
+autodetected
+codebase's
+superceded
+unstaged
+runtimes
+runtime
+callee
+sanitization
+[Aa]ntipatterns
+[Aa]ntipattern
+React
+React's
+post mortem
+post mortems
+[Mm]ultiline
+[Ss]ubstrings
+[Ss]ubstring
+AND
+ANDs
+and
+
+OR
+ORs
+or
+
+bitwise
+tokenizes
+lookaheads
+
+AppCode
+Aqua
+CLion
+DataSpell
+DataGrip
+GoLand
+IntelliJ IDEA Ultimate
+PhpStorm
+PyCharm Professional
+Rider
+RubyMine
+RustRover
+WebStorm
+
