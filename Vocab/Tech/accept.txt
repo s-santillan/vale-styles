@@ -207,8 +207,8 @@ autodetected
 codebase's
 superceded
 unstaged
-runtimes
-runtime
+[Rr]untimes
+[Rr]untime
 callee
 sanitization
 [Aa]ntipatterns
@@ -225,6 +225,7 @@ ANDs
 and
 
 OR
+Or
 ORs
 or
 
@@ -245,4 +246,14 @@ Rider
 RubyMine
 RustRover
 WebStorm
+CVEs
+ripgrep
+[Pp]seudoanonymize
+[Pp]seudoanonymization
+[Pp]seudoanonymized
+Booleans
 
+[Tt]ypecheck
+[Tt]ypechecking
+
+Devops
