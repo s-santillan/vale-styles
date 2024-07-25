@@ -50,8 +50,11 @@ Lockfiles
 MR
 MRs
 
+
 PR
 PRs
+pr
+mr
 
 [Dd]ataflow
 buildable
@@ -257,3 +260,5 @@ Booleans
 [Tt]ypechecking
 
 Devops
+[Rr]emediations
+[Hh]ardcoded
