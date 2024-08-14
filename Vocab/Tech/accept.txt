@@ -162,7 +162,8 @@ pfff
 
 Araujo
 
-namespace
+[Nn]amespace
+[Nn]amespacing
 unparsable
 [Ss]ubfolders
 [Ss]ubfolder
@@ -259,6 +260,6 @@ Booleans
 [Tt]ypecheck
 [Tt]ypechecking
 
-Devops
+Azure DevOps
 [Rr]emediations
 [Hh]ardcoded

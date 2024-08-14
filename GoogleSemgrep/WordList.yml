@@ -88,4 +88,4 @@ swap:
   git: Git
   interprocedural: intrafile
   rule set: ruleset
-  diff-aware scans: diff scans
+  diff scans: diff-aware scans
