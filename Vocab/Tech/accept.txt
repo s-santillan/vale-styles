@@ -263,3 +263,5 @@ Booleans
 Azure DevOps
 [Rr]emediations
 [Hh]ardcoded
+
+[Ww]alkthrough
