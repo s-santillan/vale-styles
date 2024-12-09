@@ -265,3 +265,4 @@ Azure DevOps
 [Hh]ardcoded
 
 [Ww]alkthrough
+Jenkinsfile
