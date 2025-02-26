@@ -244,6 +244,7 @@ DataSpell
 DataGrip
 GoLand
 IntelliJ IDEA Ultimate
+Open[gG]rep
 PhpStorm
 PyCharm Professional
 Rider
